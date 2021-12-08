@@ -1,0 +1,15 @@
+C:\Users\Gonza\Desktop\PruebaDos\bin\Debug\net6.0\PruebaDos.exe
+C:\Users\Gonza\Desktop\PruebaDos\bin\Debug\net6.0\PruebaDos.deps.json
+C:\Users\Gonza\Desktop\PruebaDos\bin\Debug\net6.0\PruebaDos.runtimeconfig.json
+C:\Users\Gonza\Desktop\PruebaDos\bin\Debug\net6.0\PruebaDos.dll
+C:\Users\Gonza\Desktop\PruebaDos\bin\Debug\net6.0\ref\PruebaDos.dll
+C:\Users\Gonza\Desktop\PruebaDos\bin\Debug\net6.0\PruebaDos.pdb
+C:\Users\Gonza\Desktop\PruebaDos\obj\Debug\net6.0\PruebaDos.csproj.AssemblyReference.cache
+C:\Users\Gonza\Desktop\PruebaDos\obj\Debug\net6.0\PruebaDos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonza\Desktop\PruebaDos\obj\Debug\net6.0\PruebaDos.AssemblyInfoInputs.cache
+C:\Users\Gonza\Desktop\PruebaDos\obj\Debug\net6.0\PruebaDos.AssemblyInfo.cs
+C:\Users\Gonza\Desktop\PruebaDos\obj\Debug\net6.0\PruebaDos.csproj.CoreCompileInputs.cache
+C:\Users\Gonza\Desktop\PruebaDos\obj\Debug\net6.0\PruebaDos.dll
+C:\Users\Gonza\Desktop\PruebaDos\obj\Debug\net6.0\ref\PruebaDos.dll
+C:\Users\Gonza\Desktop\PruebaDos\obj\Debug\net6.0\PruebaDos.pdb
+C:\Users\Gonza\Desktop\PruebaDos\obj\Debug\net6.0\PruebaDos.genruntimeconfig.cache
